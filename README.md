@@ -75,7 +75,6 @@ Technologies: `Go`, `PostgreSQL`, `sqlc`, `WebSockets`, `JWT/RBAC`, `Clean Archi
 | Repository | Description | Technologies |
 | --- | --- | --- |
 | [shared-utils-go](https://github.com/IbrahimHYoussef/shared-utils-go) | Shared Go utilities for backend services, including JWT helpers, password hashing, validation, responses, PostgreSQL helpers, transactions, and middleware. | Go, pgx, sqlc patterns, GitHub Actions |
-| [clean-python](https://github.com/IbrahimHYoussef/clean-python) | FastAPI server template built around Clean Architecture and Modular Monolith conventions, with Docker, Alembic migrations, testing, and setup documentation. | Python, FastAPI, SQLAlchemy, Alembic, Docker |
 | [kanban-app](https://github.com/IbrahimHYoussef/kanban-app) | Full-stack Kanban application experiment with a Go backend, Next.js frontend, JSON schemas, and Docker Compose setup. | Go, Next.js, TypeScript, Docker |
 | [my-go-middleware](https://github.com/IbrahimHYoussef/my-go-middleware) | Lightweight Go middleware package for reusable application concerns. | Go, Middleware, Makefile |
 | [next-skeleton-template](https://github.com/IbrahimHYoussef/next-skeleton-template) | Minimal Next.js starter structure for quickly beginning frontend projects with TypeScript. | Next.js, TypeScript, CSS |
