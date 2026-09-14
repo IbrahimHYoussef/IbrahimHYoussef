@@ -93,4 +93,4 @@ Distributed systems, backend architecture, AI agents, LLM applications, database
 ## Contact
 
 - GitHub: [@IbrahimHYoussef](https://github.com/IbrahimHYoussef)
-- LinkedIn: `<LINKEDIN_URL>`
+- LinkedIn: [ibrahim-youssef-datascientist](https://www.linkedin.com/in/ibrahim-youssef-datascientist/)
