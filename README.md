@@ -4,8 +4,8 @@
 
 I work across backend engineering, enterprise integrations, data systems, and applied AI. My focus is designing reliable APIs, clean service boundaries, and practical AI workflows that can run in real production environments.
 
-[![Go](https://img.shields.io/badge/Go-0B5CAD?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![Python](https://img.shields.io/badge/Python-1F4E79?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-0B5CAD?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
